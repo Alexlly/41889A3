@@ -13,7 +13,7 @@ Film Detail Page : show details of selected film -> sekect time and click bookin
 
 Seats Page: show all seats and their status -> select seat and click book jump to Ticket Page, otherwise throw error   --------【解决选座问题】
 
-Ticket Page: show the detail of booking information include film and seat info   -------- 做的话名字写这里【解决所有数据获取问题】
+Ticket Page: show the detail of booking information include film and seat info   -------- Bohui Liu【解决所有数据获取问题】
 
 
 
