@@ -1,0 +1,12 @@
+platform :ios, '15.0'
+use_frameworks!
+
+target 'MovieList' do
+
+pod 'SnapKit'
+pod 'Shuffle-iOS'
+pod 'Charts'
+pod 'YoutubePlayerView'
+
+end
+
