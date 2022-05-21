@@ -1,0 +1,38 @@
+PODS:
+  - Charts (4.0.2):
+    - Charts/Core (= 4.0.2)
+  - Charts/Core (4.0.2):
+    - SwiftAlgorithms (~> 1.0)
+  - CSPickerView/source (1.0.2)
+  - Shuffle-iOS (0.5.0)
+  - SnapKit (5.6.0)
+  - SwiftAlgorithms (1.0.0)
+  - YoutubePlayerView (1.2.1)
+
+DEPENDENCIES:
+  - Charts
+  - CSPickerView/source
+  - Shuffle-iOS
+  - SnapKit
+  - YoutubePlayerView
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - CSPickerView
+    - Shuffle-iOS
+    - SnapKit
+    - SwiftAlgorithms
+    - YoutubePlayerView
+
+SPEC CHECKSUMS:
+  Charts: cfa4e911e6dc289582c2fe011a0e87c03d96727f
+  CSPickerView: 2c5e5d9e574ef86ff36e96feb69c5bd982ca1296
+  Shuffle-iOS: ff33658fb1e5eebd6a4724c156473e63754be9cb
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  YoutubePlayerView: 3870fc10f2db3f54156697757f44d304203bdc7e
+
+PODFILE CHECKSUM: 43c6463cb0a49477770d607bd2e8bbdb44c02cd2
+
+COCOAPODS: 1.11.3
