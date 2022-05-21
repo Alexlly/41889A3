@@ -21,6 +21,6 @@ Ticket Page: show the detail of booking information include film and seat info  
 
 5.6-5.15 : Work for 4 individual pages
 
-5.15-5.17 : complete all tansfer
+5.15-5.17 : complete all transfer and integration
 
 5.18 prepare for presentation
