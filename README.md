@@ -11,7 +11,7 @@ Film Page : show all films -> click film jump to Film Detail Page   -------- Yuh
 
 Film Detail Page : show details of selected film -> sekect time and click booking button jump to Seats Page   -------- Jerry【解决详情和时间线数据问题，所有数据从第一二个页面提供】
 
-Seats Page: show all seats and their status -> select seat and click book jump to Ticket Page, otherwise throw error   --------【解决选座问题】
+Seats Page: show all seats and their status -> select seat and click book jump to Ticket Page, otherwise throw error   -------- Junjie【解决选座问题】
 
 Ticket Page: show the detail of booking information include film and seat info   -------- Bohui Liu【解决所有数据获取问题】
 
