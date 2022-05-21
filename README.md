@@ -24,3 +24,19 @@ Ticket Page: show the detail of booking information include film and seat info  
 5.15-5.17 : complete all transfer and integration
 
 5.18 prepare for presentation
+
+
+
+### TeamMembers
+
+#### Group 6
+Yuhao Jiang 13345804 yuhao.jiang-1@student.uts.edu.au
+Jiawei Liang 13814241 jiawei.liang-1@student.uts.edu.au
+Junjie Yang 14073225 14073225junjie.yang-1@student.uts.edu.au
+Bohui Liu 13334228 Bohui.Liu-1@student.uts.edu.au
+
+
+
+### Github Url
+
+https://github.com/Alexlly/41889A3.git
