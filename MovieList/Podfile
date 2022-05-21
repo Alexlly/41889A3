@@ -3,10 +3,10 @@ use_frameworks!
 
 target 'MovieList' do
 
-pod 'SnapKit'
-pod 'Shuffle-iOS'
-pod 'Charts'
-pod 'YoutubePlayerView'
-
+  pod 'SnapKit'
+  pod 'Shuffle-iOS'
+  pod 'Charts'
+  pod 'YoutubePlayerView'
+  pod 'CSPickerView', :subspecs => ["source"] # 源码形式
 end
 
